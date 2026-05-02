@@ -25,7 +25,7 @@ Neste repositório, você encontrará a implementação prática dos seguintes p
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/JeanPDR/api-rest-mvc-simple.git
 ```
 
 2. Acesse a pasta do projeto:
